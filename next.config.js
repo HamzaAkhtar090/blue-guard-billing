@@ -1,13 +1,7 @@
-/** @type {import('next').NextConfig} */
-const repoName = "blue-guard-billing";
-
+﻿/** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: false,
-  output: "export",
-
-  basePath: `/${repoName}`,
-  assetPrefix: `/${repoName}/`,
-
+  output: 'export',
   images: {
     unoptimized: true,
   },
