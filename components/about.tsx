@@ -13,7 +13,7 @@ export function About() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div>
-            <img src="/medical-billing-team-office-professional.jpg" alt="Our Team" className="rounded-2xl shadow-xl" />
+            <img src="/blue-guard-billing/medical-billing-team-office-professional.jpg" alt="Our Team" className="rounded-2xl shadow-xl" />
           </div>
           <div>
             <span className="font-semibold uppercase tracking-wider text-sm" style={{ color: "#2989B0" }}>
