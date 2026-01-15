@@ -46,7 +46,7 @@ export function Hero() {
             </div>
           </div>
           <div className="relative hidden lg:block">
-            <img src="/medical-professional-doctor-healthcare.jpg" alt="Medical Professional" className="rounded-2xl shadow-2xl" />
+            <img src="/blue-guard-billing/medical-professional-doctor-healthcare.jpg" alt="Medical Professional" className="rounded-2xl shadow-2xl" />
             <div className="absolute -bottom-6 -left-6 bg-white rounded-xl p-4 shadow-xl">
               <div className="flex items-center gap-3">
                 <div className="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center">
